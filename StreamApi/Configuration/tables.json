@@ -1,0 +1,39 @@
+{
+  "tables": [
+    {
+      "name": "min_promomatriks",
+      "schema": "public",
+      "enabled": true,
+      "useKodeTokoMapping": false,
+      "sourceTableBaseName": "min_promomatriks"
+    },
+    {
+      "name": "pfepbe",
+      "schema": "public",
+      "enabled": true,
+      "useKodeTokoMapping": true,
+      "sourceTableBaseName": "pfe_pbe"
+    },
+    {
+      "name": "rak",
+      "schema": "public",
+      "enabled": false,
+      "useKodeTokoMapping": true,
+      "sourceTableBaseName": "rak"
+    },
+    {
+      "name": "ptag",
+      "schema": "public",
+      "enabled": true,
+      "useKodeTokoMapping": true,
+      "sourceTableBaseName": "ptag"
+    },
+    {
+      "name": "cetak_perubahan_harga",
+      "schema": "public",
+      "enabled": true,
+      "useKodeTokoMapping": false,
+      "sourceTableBaseName": "cetak_perubahan_harga"
+    }
+  ]
+}

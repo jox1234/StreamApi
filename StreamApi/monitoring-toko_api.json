@@ -1,0 +1,10 @@
+{
+  "MonitoringToko": {
+    "Username": "username",
+    "Password": "password"
+  },
+  "MonitoringBackup": {
+    "RootPath": "D:\\FtpGrab",
+    "RetentionDays": 30
+  }
+}
